@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tpetry01
+- 👀 I’m interested in all data science and data analytics projects but specifically analytics in sports like Baseball.
+- 📫 How to reach me: tomwp123@gmail.com
